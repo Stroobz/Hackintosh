@@ -17,3 +17,17 @@
 - 6MB Smar Cache
 - 4k Dual HDMI Ports
 - WIFI5 and Bluetooth 5.0
+
+### Tested using MacOS Ventura 13.2
+
+#### What currently works
+- iMessage
+- Facetime
+- Appstore
+- OS Level Updates
+- Dual HDMI Display
+- GPU Acceleration
+- Sleep / Wakeup
+
+#### What is not currently working
+- AppleTV
