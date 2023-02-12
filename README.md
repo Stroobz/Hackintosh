@@ -31,3 +31,5 @@
 
 #### What is not currently working
 - AppleTV
+
+## [Download EFI](https://bananaknights.com/EFISEI8.7z)
