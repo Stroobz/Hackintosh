@@ -36,7 +36,7 @@
 
 &nbsp;
 ## Dell Inspiron 15 7537 Laptop
-![INSPIRON 7537](https://bananaknights.com/7537.png)
+![INSPIRON 7537](https://bananaknights.com/7537a.png)
 ### Hardware
 - Intel i7 4th Gen 4501U
 - 16Gb of DDR3 1666mhz RAM
