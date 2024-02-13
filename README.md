@@ -35,6 +35,31 @@
 ## [Download EFI](https://bananaknights.com/EFISEI8.7z)
 
 &nbsp;
+## Dell Latitude 7390
+![LATITUDE 7390](https://bananaknights.com/7390.png)
+### Hardware
+- Intel 
+- 16Gb of DDR4 2400mhz RAM
+- 256GB Nvme SSD
+
+
+### Tested using MacOS Ventura 13.2
+
+#### What currently works
+- iMessage
+- Facetime
+- Appstore
+- OS Level Updates
+- Dual HDMI Display
+- GPU Acceleration
+- Sleep / Wakeup
+
+#### What is not currently working
+- AppleTV
+
+## [Download EFI](https://bananaknights.com/EFI7390.7z)
+
+&nbsp;
 ## Dell Inspiron 15 7537 Laptop
 ![INSPIRON 7537](https://bananaknights.com/7537a.png)
 ### Hardware
